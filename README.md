@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/khomathi1085/DSA/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/khomathi1085/DSA/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/khomathi1085/DSA/tree/master/0075-sort-colors) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/khomathi1085/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/khomathi1085/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/khomathi1085/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/khomathi1085/DSA/tree/master/0075-sort-colors) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/khomathi1085/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,4 +29,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/khomathi1085/DSA/tree/master/0075-sort-colors) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/khomathi1085/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+## Greedy
+|  |
+| ------- |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/khomathi1085/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
