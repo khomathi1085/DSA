@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/khomathi1085/DSA/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/khomathi1085/DSA/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/khomathi1085/DSA/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/khomathi1085/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/khomathi1085/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Hash Table
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/khomathi1085/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/khomathi1085/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
