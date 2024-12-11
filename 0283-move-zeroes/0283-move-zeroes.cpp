@@ -5,8 +5,9 @@ public:
         int high=0;
         while(high<nums.size()){
             if(nums[high]==0){
-                 high++;
-            }else{
+                high++;
+            }
+            else{
                 swap(nums[high],nums[low]);
                 low++;
                 high++;
