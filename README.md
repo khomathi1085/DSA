@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/khomathi1085/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/khomathi1085/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/khomathi1085/DSA/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/khomathi1085/DSA/tree/master/0392-is-subsequence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/khomathi1085/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khomathi1085/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/khomathi1085/DSA/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/khomathi1085/DSA/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/khomathi1085/DSA/tree/master/0812-rotate-string) |
 ## String Matching
 |  |
