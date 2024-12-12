@@ -5,8 +5,7 @@ public:
         string min = *min_element(strs.begin(),strs.end());
         int i=0;
         string ans="";
-        if(strs.size()==1) return "";
-        while(i<strs.size()){
+        while(i<min.size()){
             if(min[i]==max[i]){
                 ans+=min[i];
                 i++;
