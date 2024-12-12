@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/khomathi1085/DSA/tree/master/0014-longest-common-prefix) |
 | [0392-is-subsequence](https://github.com/khomathi1085/DSA/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/khomathi1085/DSA/tree/master/0812-rotate-string) |
 ## String Matching
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/khomathi1085/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/khomathi1085/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
