@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/khomathi1085/DSA/tree/master/0283-move-zeroes) |
 | [1603-running-sum-of-1d-array](https://github.com/khomathi1085/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/khomathi1085/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/khomathi1085/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khomathi1085/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/khomathi1085/DSA/tree/master/0169-majority-element) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/khomathi1085/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/khomathi1085/DSA/tree/master/0014-longest-common-prefix) |
 | [0392-is-subsequence](https://github.com/khomathi1085/DSA/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/khomathi1085/DSA/tree/master/0812-rotate-string) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/khomathi1085/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 ## String Matching
 |  |
 | ------- |
@@ -109,9 +112,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/khomathi1085/DSA/tree/master/0014-longest-common-prefix) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/khomathi1085/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/khomathi1085/DSA/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/khomathi1085/DSA/tree/master/1603-running-sum-of-1d-array) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/khomathi1085/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
