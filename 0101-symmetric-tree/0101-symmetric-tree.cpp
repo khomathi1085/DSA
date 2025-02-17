@@ -21,6 +21,6 @@ public:
         if(p!=nullptr && q!=nullptr && p->val==q->val){
             return helper(p->left,q->right) && helper(q->left,p->right);
         }
-        return true;
+        return false;
     }
 };
