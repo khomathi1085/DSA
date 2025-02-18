@@ -12,12 +12,11 @@
 class Solution {
 public:
     unordered_map<int,int> mpp;
-    int preOrderIndex;
+    int preOrderIndex=0;
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
         for(int i=0;i<inorder.size();i++){
             mpp[inorder[i]]=i;
         }
-        preOrderIndex=0;
         return build(preorder,0,inorder.size()-1);
     }
     TreeNode* build(vector<int>& preorder, int start, int end){
