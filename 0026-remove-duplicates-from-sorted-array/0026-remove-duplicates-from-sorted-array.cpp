@@ -6,7 +6,6 @@ public:
             if(nums[i]!=nums[i-1]){
                 nums[unique]=nums[i];
                 unique++;
-                i++;
             }
         }
         return unique;
